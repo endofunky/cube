@@ -1,0 +1,3 @@
+cube
+
+$ cc -O2 -lm -o cube cube.c
